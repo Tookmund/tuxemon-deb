@@ -2,3 +2,4 @@ tuxemon/tuxemon.py	/usr/games/tuxemon
 tuxemon/core		/usr/share/tuxemon/core
 tuxemon/resources	/usr/share/tuxemon/resources
 tuxemon/fusion		/usr/share/tuxemon/fusion
+tuxemon/tuxemon.cfg	/etc/tuxemon.cfg
